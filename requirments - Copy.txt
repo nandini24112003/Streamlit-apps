@@ -2,5 +2,6 @@ streamlit
 pandas
 numpy
 biopython
-py3Dmol
+git+https://github.com/3dmol/py3Dmol.git
 requests
+
