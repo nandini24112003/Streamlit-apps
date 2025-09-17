@@ -1,2 +1,2 @@
 git
-py3Dmol 2.5.2
+py3Dmol
